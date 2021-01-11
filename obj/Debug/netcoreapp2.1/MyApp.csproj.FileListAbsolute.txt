@@ -1,0 +1,11 @@
+/Users/vyom/MyApp/bin/Debug/netcoreapp2.1/MyApp.deps.json
+/Users/vyom/MyApp/bin/Debug/netcoreapp2.1/MyApp.runtimeconfig.json
+/Users/vyom/MyApp/bin/Debug/netcoreapp2.1/MyApp.runtimeconfig.dev.json
+/Users/vyom/MyApp/bin/Debug/netcoreapp2.1/MyApp.dll
+/Users/vyom/MyApp/bin/Debug/netcoreapp2.1/MyApp.pdb
+/Users/vyom/MyApp/obj/Debug/netcoreapp2.1/MyApp.csprojAssemblyReference.cache
+/Users/vyom/MyApp/obj/Debug/netcoreapp2.1/MyApp.csproj.CoreCompileInputs.cache
+/Users/vyom/MyApp/obj/Debug/netcoreapp2.1/MyApp.AssemblyInfoInputs.cache
+/Users/vyom/MyApp/obj/Debug/netcoreapp2.1/MyApp.AssemblyInfo.cs
+/Users/vyom/MyApp/obj/Debug/netcoreapp2.1/MyApp.dll
+/Users/vyom/MyApp/obj/Debug/netcoreapp2.1/MyApp.pdb
